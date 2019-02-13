@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Retrofit Again</string>
+    <string name="title_activity_rvadapter">RVAdapter</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
